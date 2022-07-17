@@ -1,5 +1,9 @@
 # **Hacker Rank SQL problems**
 
+<p align='right'>
+<img src='https://github.com/nxtbyt/graphics/blob/main/icons/hackerrank.png?raw=true' alt='drawing' width='200' height='200'/>
+</p>
+
 ## **Easy Problems**
 
 ### **1. Select All**
@@ -38,3 +42,4 @@ where
   population > 100000
   and countrycode = 'USA';
 ```
+...
