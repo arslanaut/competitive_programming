@@ -1,7 +1,7 @@
 # **Hacker Rank SQL problems**
 
 <p align='right'>
-<img src='https://github.com/nxtbyt/graphics/blob/main/icons/hackerrank.png?raw=true' alt='drawing' width='200' height='200'/>
+<img src='https://github.com/nxtbyt/graphics/blob/main/icons/hackerrank.png?raw=true' alt='drawing' width='200' height='150'/>
 </p>
 
 ## **Easy Problems**
